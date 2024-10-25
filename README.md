@@ -1,5 +1,9 @@
-
-<img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?semt=ais_hybrid" alt="img" width="100" heigth="100"/>
+<style>
+  body {
+    background-color: "https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?semt=ais_hybrid"
+  }
+</style>
+<img src="https://img.freepik.com/fotos-premium/fundo-de-tecnologia-abstrata-de-codigo-de-programacao-do-desenvolvedor-de-software-e-script-de-computador_34663-31.jpg?semt=ais_hybrid" alt="img" width="" heigth=""/>
 
 # Arthur Felipe Campos Pina
   <h3>Meu nome é Arthur Campos, tenho 20 anos. No momento estou cursando Análise e Desenvolvimento de Sistemas, na Cesar School, estou no 2º período.</h3>
