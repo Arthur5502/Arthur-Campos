@@ -3,12 +3,14 @@
 
   <h1>Habilidades:</h1>
  ## Tecnologias Utilizadas
- 
-  ![React](https://devicon.dev/icons/react/react-original.svg)
-  ![Node.js](https://devicon.dev/icons/nodejs/nodejs-original.svg)
-  ![Django](https://devicon.dev/icons/django/django-plain.svg)
-  ![Python](https://devicon.dev/icons/python/python-original.svg)
-  ![C](https://devicon.dev/icons/c/c-original.svg)
+
+<p align="left">
+  <img src="https://devicon.dev/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://devicon.dev/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://devicon.dev/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://devicon.dev/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://devicon.dev/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
 
   
     
