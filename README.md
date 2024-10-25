@@ -2,7 +2,7 @@
 
 <h1>Arthur Felipe Campos Pina</h1>
 
-  <h3>Meu nome é Arthur Campos, tenho 20 anos. No momento estou cursando Análise e Desenvolvimento de Sistemas, na Cesar School, estou no 2º período.</h3>
+  <p><strong>Meu nome é Arthur Campos, tenho 20 anos. No momento estou cursando Análise e Desenvolvimento de Sistemas, na Cesar School, estou no 2º período.</strong></p>
 
   <h2>Habilidades:</h2>
   
